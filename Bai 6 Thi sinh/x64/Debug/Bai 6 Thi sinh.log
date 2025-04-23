@@ -1,0 +1,7 @@
+﻿  cListCandidate.cpp
+  main.cpp
+  Generating Code...
+D:\VS code\OOP\THUC HANH\IT002-Lab03\IT002-Lab03\Bai 6 Thi sinh\main.cpp(36,18): error C2039: 'sortDeascending': is not a member of 'cListCandidate'
+      D:\VS code\OOP\THUC HANH\IT002-Lab03\IT002-Lab03\Bai 6 Thi sinh\cListCandidate.h(3,7):
+      see declaration of 'cListCandidate'
+  

@@ -1,0 +1,5 @@
+﻿  cDaThuc.cpp
+D:\VS code\OOP\THUC HANH\IT002-Lab03\IT002-Lab03\Bai 5 Da thuc 1 bien\cDaThuc.cpp(8,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  Bai 5 Da thuc 1 bien.vcxproj -> D:\VS code\OOP\THUC HANH\IT002-Lab03\IT002-Lab03\x64\Debug\Bai 5 Da thuc 1 bien.exe
